@@ -1,8 +1,8 @@
 Skład grupy:
 ------------
 Maciej Rożniata 228455	
-Damian Wacławiak 228481	
 Mateusz Ciszek 222051
+Damian Wacławiak 228481	
 
 Tytył realizowanego projektu:
 -----------------------------
