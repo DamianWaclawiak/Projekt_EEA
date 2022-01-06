@@ -6,7 +6,7 @@ Damian Wacławiak 228481
 
 Tytył realizowanego projektu:
 -----------------------------
-Wzmacniacz klasy A
+Wzmacniacz Audio klasy A
 
 Termin realizacji zajęć:
 ------------------------
